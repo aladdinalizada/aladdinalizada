@@ -5,6 +5,7 @@
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aladdinalizada&label=Profile%20views&color=0e75b6&style=flat" alt="aladdinalizada" /> </p>
+<br>
 
 - 🌱 I’m currently learning **Javascript**
 
