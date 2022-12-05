@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Aladdin Alizada</h1>
-<h3 align="center">A passionate Frontend developer from Azerbaijan 🇦🇿</h3>
+<h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<iframe src="https://giphy.com/embed/C8o9T6XoxHXplxp9H8" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TemporaryMailTeam-gif-flag-azerbaijan-C8o9T6XoxHXplxp9H8">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/C8o9T6XoxHXplxp9H8" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aladdinalizada&label=Profile%20views&color=0e75b6&style=flat" alt="aladdinalizada" /> </p>
 
