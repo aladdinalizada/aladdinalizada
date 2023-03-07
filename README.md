@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 💬 Ask me about **CSS , Javascript**
+- 💬 Ask me about ** Javascript, React**
 
 - 📫 How to reach me **tu7c5zneb@code.edu.az**
 
