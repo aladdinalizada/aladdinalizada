@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aladdinalizada&label=Profile%20views&color=0e75b6&style=flat" alt="aladdinalizada" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **NextJS, React**
 
 - 💬 Ask me about ** Javascript, React**
 
