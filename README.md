@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NextJS, React**
 
-- 💬 Ask me about **Next.js, React**
-
 - 📫 How to reach me **aladdinalizada@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
